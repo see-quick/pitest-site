@@ -1,0 +1,54 @@
+<svg
+   width="28"
+   height="22"
+   viewBox="0 0 28 22"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg">
+  <title>ArcMutate</title>
+  <g
+     id="goto10"
+     stroke-width="2"
+     stroke-linecap="round"
+     transform="translate(-13,-19)">
+    <line
+       x1="20"
+       y1="20"
+       x2="30"
+       y2="30"
+       stroke="#65cc6e" />
+    <line
+       x1="30"
+       y1="20"
+       x2="40"
+       y2="30"
+       stroke="#65cc87" />
+    <line
+       x1="20"
+       y1="30"
+       x2="30"
+       y2="40"
+       stroke="#65cca1" />
+    <line
+       x1="40"
+       y1="30"
+       x2="30"
+       y2="40"
+       stroke="#65cca1" />
+  </g>
+  <g
+     id="best_walker"
+     transform="translate(-13,-19)">
+    <path
+       d="m 15,25 h 5 l 5,5 5,5 5,-5 -5,-5 -5,-5"
+       stroke-width="2"
+       stroke="#19c6e5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none" />
+    <circle
+       cx="15"
+       cy="25"
+       r="2"
+       fill="#19c6e5" />
+  </g>
+</svg>

@@ -188,7 +188,7 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
 /* Masthead (docs home)
 ------------------------- */
 .masthead {
-  padding: 70px 0 80px;
+  padding: 70px 0 20px;
   margin-bottom: 0;
 }
 .masthead h1 {
@@ -304,6 +304,13 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
   max-height: 145px;
 }
 
+.sponsors-logos img {
+  height: 44px;
+}
+
+.platinum-sponsor img {
+  height: 66px;
+}
 
 .pitdoc {
   text-align: center;
