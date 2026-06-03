@@ -286,7 +286,7 @@ Consider a project with 10,000 lines and 6,147 covered (line coverage **61.47%**
        A single percentage point jump for 50 lines.
 ```
 
-With integer thresholds, the blind spot is approximately **1 full percentage point**. In a project with ~1300 lines, that means up to ~13 lines of coverage can silently drift without the threshold noticing.
+With integer thresholds, the blind spot is approximately **1 full percentage point**. In a project with 10,000 lines, that means up to ~100 lines of coverage can silently drift without the threshold noticing.
 
 The `--thresholdPrecision` parameter solves this problem.
 
